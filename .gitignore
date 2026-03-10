@@ -13,6 +13,10 @@ __pycache__/
 # Pics
 pics/
 
+# Documents
+*.docx
+*.pdf
+
 # Training artifacts
 training/vids/*
 !training/vids/.gitkeep
