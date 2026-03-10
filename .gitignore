@@ -1,0 +1,23 @@
+# Virtual environments
+env/
+env2/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights (all formats)
+*.h5
+*.keras
+
+# Pics
+pics/
+
+# Training artifacts
+training/vids/*
+!training/vids/.gitkeep
+training/Logs/
+training/accuracy_graph.png
+training/confusion_matrix.png
+training/loss_graph.png
+training/Untitled.ipynb
